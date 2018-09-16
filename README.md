@@ -3,5 +3,5 @@
 <hr>
 
 [**Resources**](#font-installation)
-  * [**1 - Wordpress page**](#option-1-download-and-install-manually)
+  * [**1 - Wordpress page**](https://hansceesopinie.wordpress.com/2018/09/15/econrevolt)
   * [**2 - Pdf file**](#option-2-release-archive-download)
