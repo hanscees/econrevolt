@@ -1,2 +1,3 @@
 # econrevolt
-Design for a new society based, economic system
+> Design for a new society based, economic system
+<hr>
